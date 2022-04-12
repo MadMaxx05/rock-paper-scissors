@@ -1,5 +1,7 @@
 # rock-paper-scissors
 
+### Demo: https://madmaxx-rock-paper-scissors.netlify.app/
+
 ## Project setup
 ```
 yarn install
